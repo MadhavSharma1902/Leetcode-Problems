@@ -21,3 +21,14 @@
 
 ---
 *Last updated: 2026-07-02T19:07:28.772Z*
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+<!---LeetCode Topics End-->
