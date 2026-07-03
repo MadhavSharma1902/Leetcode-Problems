@@ -31,6 +31,7 @@
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
