@@ -29,6 +29,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,8 +39,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
