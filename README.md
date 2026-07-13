@@ -94,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
