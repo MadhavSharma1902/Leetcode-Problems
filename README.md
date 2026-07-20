@@ -33,6 +33,7 @@
 | [0039-combination-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
+| [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
