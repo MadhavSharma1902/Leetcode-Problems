@@ -35,6 +35,7 @@
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -190,4 +193,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
