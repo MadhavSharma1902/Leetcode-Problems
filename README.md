@@ -45,6 +45,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
