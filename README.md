@@ -80,6 +80,7 @@
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -89,6 +90,7 @@
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
@@ -169,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -216,4 +219,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->
