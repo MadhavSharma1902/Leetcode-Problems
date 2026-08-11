@@ -40,6 +40,7 @@
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -60,6 +61,7 @@
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -194,6 +196,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
