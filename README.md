@@ -48,6 +48,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
