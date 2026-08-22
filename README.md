@@ -159,6 +159,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
