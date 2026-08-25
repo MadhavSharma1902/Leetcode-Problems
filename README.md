@@ -55,6 +55,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
