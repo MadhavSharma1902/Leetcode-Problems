@@ -83,6 +83,7 @@
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -111,6 +112,7 @@
 | [0115-distinct-subsequences](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -263,6 +266,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
