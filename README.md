@@ -123,6 +123,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
@@ -251,6 +252,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +365,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
