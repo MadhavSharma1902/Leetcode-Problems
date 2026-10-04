@@ -1,23 +1,16 @@
 class Solution {
     public boolean checkValidString(String s) {
-        Boolean[][]arr=new Boolean[s.length()][s.length()+1];
-        return helper(s,0,0,arr);
-    }
-    public static boolean helper(String s,int index,int sum,Boolean[][]dp){
-        if(sum<0)return false;
-        if(index>=s.length())return sum==0;
-        if(dp[index][sum]!=null)return dp[index][sum];
-        boolean result;
-        if(s.charAt(index)=='('){
-            result=helper(s,index+1,sum+1,dp);
-        }else if(s.charAt(index)==')'){
-            result=helper(s,index+1,sum-1,dp);
-        }else{
-            result=helper(s,index+1,sum+1,dp)||
-                    helper(s,index+1,sum-1,dp)||
-                    helper(s,index+1,sum,dp);
+        int mask = 1;
+        for (char ch : s.toCharArray()) {
+            if (ch == '(') 
+                mask = mask << 1;
+            else if (ch == ')') 
+                mask = mask >> 1;
+            else 
+                mask = (mask << 1) | mask | (mask >> 1);
+            if (mask == 0)
+                return false;   
         }
-        dp[index][sum]=result;
-        return dp[index][sum];
+        return (mask & 1) != 0;
     }
 }
