@@ -1,51 +1,46 @@
 class Solution {
     public List<String> removeInvalidParentheses(String s) {
-        List<String> answers = new ArrayList<>();
-        remove(s, 0, 0, '(', ')', answers);
-        return answers;
+        List<String> res = new ArrayList<>();
+        fwd(s, res, 0, 0);
+
+        return res;
     }
 
-    private void remove(
-            String s,
-            int scanStart,
-            int deleteStart,
-            char open,
-            char close,
-            List<String> answers) {
-        int balance = 0;
+    private void fwd(String s, List<String> res, int li, int lj) {
+        int bal = 0;
 
-        for (int i = scanStart; i < s.length(); i++) {
-            char c = s.charAt(i);
+        for (int i = li; i < s.length(); i++) {
+            if (s.charAt(i) == '(') bal++;
+            if (s.charAt(i) == ')') bal--;
 
-            if (c == open) {
-                balance++;
-            } else if (c == close) {
-                balance--;
-            }
+            if (bal >= 0) continue;
 
-            if (balance >= 0) {
-                continue;
-            }
-
-            for (int j = deleteStart; j <= i; j++) {
-                if (s.charAt(j) == close
-                        && (j == deleteStart
-                                || s.charAt(j - 1) != close)) {
-                    remove(
-                            s.substring(0, j) + s.substring(j + 1),
-                            i, j, open, close, answers);
-                }
-            }
+            for (int j = lj; j <= i; j++)
+                if (s.charAt(j) == ')' && (j == lj || s.charAt(j - 1) != ')'))
+                    fwd(s.substring(0, j) + s.substring(j + 1), res, i, j);
 
             return;
         }
 
-        String reversed = new StringBuilder(s).reverse().toString();
+        bwd(s, res, s.length() - 1, s.length() - 1);
+    }
 
-        if (open == '(') {
-            remove(reversed, 0, 0, ')', '(', answers);
-        } else {
-            answers.add(reversed);
+    private void bwd(String s, List<String> res, int ri, int rj) {
+        int bal = 0;
+
+        for (int i = ri; i >= 0; i--) {
+            if (s.charAt(i) == ')') bal++;
+            if (s.charAt(i) == '(') bal--;
+
+            if (bal >= 0) continue;
+
+            for (int j = rj; j >= i; j--)
+                if (s.charAt(j) == '(' && (j == rj || s.charAt(j + 1) != '('))
+                    bwd(s.substring(0, j) + s.substring(j + 1), res, i - 1, j - 1);
+
+            return;
         }
+
+        res.add(s);
     }
 }
