@@ -113,6 +113,7 @@
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String
@@ -122,6 +123,7 @@
 | [0032-longest-valid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -183,6 +185,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
