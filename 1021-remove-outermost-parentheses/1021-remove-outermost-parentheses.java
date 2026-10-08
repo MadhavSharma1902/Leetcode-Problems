@@ -3,15 +3,19 @@ class Solution {
         StringBuilder ans = new StringBuilder();
         int count = 0;
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                if (count > 0)
-                    ans.append(c);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (ch == '(') {
+                if (count > 0) {
+                    ans.append(ch);
+                }
                 count++;
             } else {
                 count--;
-                if (count > 0)
-                    ans.append(c);
+                if (count > 0) {
+                    ans.append(ch);
+                }
             }
         }
 
