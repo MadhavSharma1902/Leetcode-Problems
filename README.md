@@ -48,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -198,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
