@@ -8,7 +8,7 @@ class Solution {
         for (int i = 0; i < k; i++) {  
             long row = 0;
             for (int b = 0; b < 30; b++)
-                if (cnt[b] > i) row |= 1L << b; 
+                if (cnt[b] > i) row |= 1L << b;  
             total = (total + row * row) % MOD;
         }
         return (int) total;
