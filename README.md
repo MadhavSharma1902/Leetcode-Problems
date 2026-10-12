@@ -49,6 +49,7 @@
 | [2029-stone-game-ix](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -94,6 +95,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -282,6 +284,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Monotonic Stack
@@ -304,6 +307,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
