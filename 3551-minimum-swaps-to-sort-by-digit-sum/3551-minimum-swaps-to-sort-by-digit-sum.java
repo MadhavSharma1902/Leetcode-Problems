@@ -22,8 +22,6 @@ class Solution {
         for(int i = 0; i < nums.length; i++) {
             states[i] = new State(nums[i],i);
         }
-        // Swapping 2 nums that just need to switch positions -> 1 turn
-        // Placing 1 num correctly otherwise -> 1 turn
         Arrays.sort(states, (a,b) -> {
             if(a.digitSum != b.digitSum) return a.digitSum - b.digitSum;
             return a.num - b.num;
