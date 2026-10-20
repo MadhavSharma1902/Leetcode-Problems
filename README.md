@@ -76,6 +76,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@
 | [3870-count-commas-in-range](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
