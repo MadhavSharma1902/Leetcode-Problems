@@ -71,6 +71,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -333,6 +334,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
