@@ -37,6 +37,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
@@ -122,6 +123,7 @@
 | [0036-valid-sudoku](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0835-image-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -199,6 +201,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
@@ -206,10 +209,12 @@
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
