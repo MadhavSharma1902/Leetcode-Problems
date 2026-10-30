@@ -1,91 +1,101 @@
+import java.util.*;
+
 class Solution {
-    int n, LOG = 17, timer;
-    List<Integer>[] g;
+    int N;
+    int[] bit;
+    int LOG;
     int[][] up;
-    int[] tin, tout, dep, bit;
-    char[] s;
+    int[] depth;
 
     void add(int i, int x) {
-        for (; i <= n; i += i & -i) bit[i] ^= x;
+        for (; i <= N + 1; i += i & -i) bit[i] ^= x;
     }
 
-    int sum(int i) {
-        int x = 0;
-        for (; i > 0; i -= i & -i) x ^= bit[i];
-        return x;
+    int get(int i) {
+        int r = 0;
+        for (; i > 0; i -= i & -i) r ^= bit[i];
+        return r;
     }
 
-    void update(int u, int x) {
-        add(tin[u], x);
-        add(tout[u]+1, x);
-    }
-
-    void dfs(int u, int p) {
-        tin[u] = ++timer;
-        up[0][u] = p;
-
-        for (int j = 1; j < LOG; j++)
-            up[j][u] = up[j-1][up[j-1][u]];
-
-        for (int v : g[u]) if (v != p) {
-            dep[v] = dep[u]+1;
-            dfs(v, u);
-        }
-        tout[u] = timer;
+    void rangeXor(int l, int r, int x) {
+        add(l, x);
+        add(r + 1, x);
     }
 
     int lca(int u, int v) {
-        if (dep[u] < dep[v]) {
-            int t = u; u = v; v = t;
-        }
-
-        for (int j = LOG-1; j >= 0; j--)
-            if (dep[u]-(1<<j) >= dep[v]) u = up[j][u];
-
+        if (depth[u] < depth[v]) { int t = u; u = v; v = t; }
+        int d = depth[u] - depth[v];
+        for (int j = 0; j < LOG; j++) if (((d >> j) & 1) == 1) u = up[j][u];
         if (u == v) return u;
-
-        for (int j = LOG-1; j >= 0; j--)
-            if (up[j][u] != up[j][v]) {
-                u = up[j][u];
-                v = up[j][v];
-            }
+        for (int j = LOG - 1; j >= 0; j--) {
+            if (up[j][u] != up[j][v]) { u = up[j][u]; v = up[j][v]; }
+        }
         return up[0][u];
     }
 
-    public List<Boolean> palindromePath(int N, int[][] edges,
-                                        String S, String[] queries) {
-        n = N;
-        s = S.toCharArray();
-        g = new ArrayList[n];
-
-        for (int i = 0; i < n; i++) g[i] = new ArrayList<>();
+    public List<Boolean> palindromePath(int n, int[][] edges, String s, String[] queries) {
+        N = n;
+        bit = new int[n + 2];
+        int[] head = new int[n];
+        Arrays.fill(head, -1);
+        int[] nxt = new int[2 * n];
+        int[] to = new int[2 * n];
+        int cnt = 0;
         for (int[] e : edges) {
-            g[e[0]].add(e[1]);
-            g[e[1]].add(e[0]);
+            to[cnt] = e[1]; nxt[cnt] = head[e[0]]; head[e[0]] = cnt++;
+            to[cnt] = e[0]; nxt[cnt] = head[e[1]]; head[e[1]] = cnt++;
         }
-
+        LOG = 1;
+        while ((1 << LOG) < n) LOG++;
         up = new int[LOG][n];
-        tin = new int[n]; tout = new int[n]; dep = new int[n];
-        bit = new int[n+2];
-        dfs(0, 0);
-
-        for (int u = 0; u < n; u++) update(u, 1 << (s[u]-'a'));
-
-        List<Boolean> ans = new ArrayList<>();
-        for (String q : queries) {
-            String[] a = q.split(" ");
-            int u = Integer.parseInt(a[1]);
-
-            if (a[0].equals("update")) {
-                char c = a[2].charAt(0);
-                update(u, (1 << (s[u]-'a')) ^ (1 << (c-'a')));
-                s[u] = c;
+        depth = new int[n];
+        int[] tin = new int[n], tout = new int[n];
+        int[] it = head.clone();
+        int[] stack = new int[n];
+        int sp = 0, timer = 1;
+        stack[sp++] = 0;
+        tin[0] = 1;
+        while (sp > 0) {
+            int u = stack[sp - 1];
+            if (it[u] != -1) {
+                int e = it[u];
+                it[u] = nxt[e];
+                int v = to[e];
+                if (v == up[0][u]) continue;
+                up[0][v] = u;
+                depth[v] = depth[u] + 1;
+                tin[v] = ++timer;
+                stack[sp++] = v;
             } else {
-                int v = Integer.parseInt(a[2]), w = lca(u, v);
-                int m = sum(tin[u]) ^ sum(tin[v]) ^ (1 << (s[w]-'a'));
-                ans.add((m & (m-1)) == 0);
+                tout[u] = timer;
+                sp--;
             }
         }
-        return ans;
+        for (int j = 1; j < LOG; j++)
+            for (int v = 0; v < n; v++) up[j][v] = up[j - 1][up[j - 1][v]];
+
+        char[] cs = s.toCharArray();
+        for (int u = 0; u < n; u++) rangeXor(tin[u], tout[u], 1 << (cs[u] - 'a'));
+
+        List<Boolean> res = new ArrayList<>();
+        for (String q : queries) {
+            String[] p = q.split(" ");
+            if (p[0].equals("update")) {
+                int u = Integer.parseInt(p[1]);
+                char c = p[2].charAt(0);
+                if (cs[u] != c) {
+                    int x = (1 << (cs[u] - 'a')) ^ (1 << (c - 'a'));
+                    rangeXor(tin[u], tout[u], x);
+                    cs[u] = c;
+                }
+            } else {
+                int u = Integer.parseInt(p[1]);
+                int v = Integer.parseInt(p[2]);
+                int l = lca(u, v);
+                int m = get(tin[u]) ^ get(tin[v]) ^ (1 << (cs[l] - 'a'));
+                res.add((m & (m - 1)) == 0);
+            }
+        }
+        return res;
     }
 }
