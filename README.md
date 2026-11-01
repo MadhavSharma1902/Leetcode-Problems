@@ -33,6 +33,7 @@
 | [0039-combination-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0835-image-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
@@ -248,6 +249,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
