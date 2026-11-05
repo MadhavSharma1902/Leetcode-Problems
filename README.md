@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -376,6 +378,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -421,6 +424,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
