@@ -1,8 +1,10 @@
 class Solution {
 
     public int[] assignTasks(int[] servers, int[] tasks) {
+        // Busy servers, stored as pairs (t, idx)
         PriorityQueue<int[]> busy = new PriorityQueue<>((a, b) -> a[0] - b[0]);
 
+        // Idle servers, stored as pairs (w, idx)
         PriorityQueue<int[]> idle = new PriorityQueue<>((a, b) -> {
             if (a[0] != b[0]) {
                 return a[0] - b[0];
@@ -34,6 +36,7 @@ class Solution {
         return ans;
     }
 
+    // Move servers with t<=ts from priority queue busy to priority queue idle one by one
     private void release(
         PriorityQueue<int[]> busy,
         PriorityQueue<int[]> idle,
