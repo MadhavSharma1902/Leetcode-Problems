@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
@@ -137,6 +138,7 @@
 | [0835-image-overlap](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -227,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -237,12 +240,14 @@
 | [0301-remove-invalid-parentheses](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -310,6 +315,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
