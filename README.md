@@ -296,6 +296,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -357,6 +358,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
