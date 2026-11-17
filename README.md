@@ -179,6 +179,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -202,6 +203,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -456,6 +458,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
