@@ -180,6 +180,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
