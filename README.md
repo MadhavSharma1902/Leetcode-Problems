@@ -75,6 +75,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -280,6 +281,7 @@
 | [1291-sequential-digits](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -307,6 +309,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -329,6 +332,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -484,6 +488,7 @@
 | [2747-count-zero-request-servers](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/MadhavSharma1902/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Ordered Set
